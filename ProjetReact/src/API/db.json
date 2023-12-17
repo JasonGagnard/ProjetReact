@@ -2,18 +2,18 @@
     "users": [
         {
             "id":0,
-            "username": "John",
-            "password": "John123"
+            "username": "Jason",
+            "password": "Jason123"
         },
         {
             "id":1,
-            "username": "Richard",
-            "password": "Richard123"
+            "username": "Quentin",
+            "password": "Quentin123"
         },
         {
             "id":2,
-            "username": "JohnDOE",
-            "password": "JohnDOE123"
+            "username": "Antoto",
+            "password": "Antoto123"
         }
     ]
 
